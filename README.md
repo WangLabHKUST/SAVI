@@ -1,8 +1,9 @@
 Ownership: [Rabadan Lab](https://github.com/RabadanLab)
+
 Status: Active Development
 
 ## SAVI
-SAVI - *statistical algorithm for variant identification* - is a program for calling variants in genomic sequencing data written by Vladimir and Oliver with contributions from Jiguang, Francesco, Alex, and Hossein.
+SAVI - *statistical algorithm for variant identification* - is a program for calling variants in genomic sequencing data written by Vladimir and Oliver with contributions from Jiguang, Francesco, Alex, and Hossein in [Rabadan Lab at Columbia University](https://rabadan.c2b2.columbia.edu/).
 
 **Introduction**
 
